@@ -14,6 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Wakapi
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.wakapi.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, languages
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5

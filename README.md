@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg)
+![Wakapi](/metrics.wakapi.svg)
