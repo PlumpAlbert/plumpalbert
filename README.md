@@ -1,1 +1,1 @@
-# PlumpAlbert
+![Metrics](/github-metrics.svg)
