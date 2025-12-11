@@ -1,5 +1,7 @@
-![Wakapi](/metrics.wakapi.svg)
+![](https://wakapi.plumpalbert.xyz/api/badge/PlumpAlbert/interval:today?label=today)
+![](https://wakapi.plumpalbert.xyz/api/badge/PlumpAlbert/PlumpAlbert/interval:30_days?label=last%2030d)
+![](https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.plumpalbert.xyz%2Fapi%2Fcompat%2Fshields%2Fv1%2FPlumpAlbert%2Finterval%3Aall&label=All%20time&color=blue)
 
-![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PlumpAlbert&api_domain=wakapi.plumpalbert.xyz&bg_color=2D3747&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![Wakapi](/metrics.wakapi.svg)
 
 ![Wakapi Contributions](https://wakapi.plumpalbert.xyz/api/activity/chart/PlumpAlbert.svg?dark&noattr)
