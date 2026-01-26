@@ -22,8 +22,8 @@ jobs:
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKAPI_TOKEN }}
-          plugin_wakatime_url: https://wakapi.plumpalbert.xyz
-          plugin_wakatime_user: .user.login
+          # plugin_wakatime_url: https://wakapi.plumpalbert.xyz
+          # plugin_wakatime_user: .user.login
           plugin_wakatime_sections: time, projects-graphs, languages-graphs
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 4
