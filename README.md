@@ -3,4 +3,4 @@
 
 ![Wakapi](/metrics.wakapi.svg)
 
-<figure><embed src="https://wakatime.com/share/@plump_albert/b998818f-7ede-433f-b419-679f48583a06.svg"></embed></figure>
+![WakaTime](https://wakatime.com/share/@plump_albert/b998818f-7ede-433f-b419-679f48583a06.svg)
